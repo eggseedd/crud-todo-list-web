@@ -33,8 +33,7 @@
     }
   }
   ```
-  Copy the .env.example and rename to .env<br>
-  Adjust the DB_CONNECTION according to your database (assuming you already made a database in phpmyadmin). Check if tables like users, password_resets, migrations already exist in your database. If these tables exist, the database connection and migration are working properly.<br>
+  Copy the .env.example and rename to .env, then adjust the DB_CONNECTION according to your database (assuming you already made a database in phpmyadmin). Check if tables like users, password_resets, migrations already exist in your database. If these tables exist, the database connection and migration are working properly.<br>
   Generate application encryption key
   ```
   php artisan key:generate
