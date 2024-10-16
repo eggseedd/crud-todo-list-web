@@ -6,7 +6,7 @@
   - MySQL installed.
   - Composer for php installed.
 
-# How to do
+# How to use
   **Laravel Installation**
 
   Make sure that you have zip, fileinfo, mysqli extension enabled and openssl disabled in the php.ini file.<br>
