@@ -2,6 +2,10 @@
 
 A CRUD (Create, Read, Update, Delete) website in the form of a to-do list using the Laravel framework.
 
+## Live Demo (No CSS)
+
+Link: https://crud-todo-list-web-production.up.railway.app/
+
 ## Requirements
 
 - XAMPP installed
